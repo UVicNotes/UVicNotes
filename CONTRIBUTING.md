@@ -2,11 +2,11 @@
 
 ## Making a New Repository
 
-1. [Create the Repository](#Create-the-Repository)
-2. [Set up Content](#Set-up-Content)
-3. [Configure Mkdocs](#Configure-Mkdocs)
-4. [Configure Travis CI](#Configure-Travis-CI)
-5. [Update README and Site URL](#Update-README-and-Site-URL)
+1. [Create the Repository](#create-the-repository)
+2. [Set up Content](#set-up-content)
+3. [Configure Mkdocs](#configure-mkdocs)
+4. [Configure Travis CI](#configure-travis-ci)
+5. [Update README and Site URL](#update-readme-and-site-url)
 
 ### Create the Repository
 
