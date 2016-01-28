@@ -1,2 +1,2 @@
 # UVicNotes
-Directory for all classes in the UVicNotes project.
+A website directory for all classes in the UVicNotes project.
