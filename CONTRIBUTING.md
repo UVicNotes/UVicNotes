@@ -162,6 +162,8 @@ gem install travis
 travis encrypt GH_TOKEN=<YourToken> --add
  ```
 
+You may need to sync the repositories on Travis CI (also have a Travis CI account linked through GitHub), go [here](https://travis-ci.org/profile/UVicNotes) and do those things if necessary.
+
 Commit the new files but before pushing turn the build on for the repository on [travis-ci.org](https://travis-ci.org/).
 
 ### Update Site URL
