@@ -6,7 +6,8 @@
 2. [Set up Content](#set-up-content)
 3. [Configure Mkdocs](#configure-mkdocs)
 4. [Configure Travis CI](#configure-travis-ci)
-5. [Update Site URL](#update-site-url)
+5. [Start Build](#start-build)
+6. [Update Site URL](#update-site-url)
 
 ### Create the Repository
 
@@ -164,7 +165,7 @@ travis encrypt GH_TOKEN=<YourToken> --add
 
 You may need to sync the repositories on Travis CI (also have a Travis CI account linked through GitHub), go [here](https://travis-ci.org/profile/UVicNotes) and do those things if necessary.
 
-### Commit Changes and Start Build
+### Start Build
 
 * Once you've config Travis, commit your changes. 
 * **Do not push**
